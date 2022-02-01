@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Xeneize69
-- 👀 I’m interested in Java and Rust programming.
-- 🌱 I’m currently learning Rust.
+- 👀 I’m interested in Typescript and Rust programming.
 - 💞️ I’m looking to collaborate on anything at my reach.
 - 📫 @Xeneize69 in Instagram.
 
